@@ -1,4 +1,4 @@
-# [Natours Project 🌲](https://mihailomarkovic.github.io/natours/)
+# [Natours Project 🌲](https://natours-mihailomarkovic.netlify.app/)
 
 ![Picture of Natours website on a laptop and phone.](img/readme-img.png)
 
